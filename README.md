@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Yuyugnat
-- 👀 I’m interested in coding any kind project related to web developement or algorithm
-- 🌱 I’m currently learning PHP, C, Golang.
+- 👋 Hi, I’m Tanguy
+- 👀 I’m interested in coding any kind of project related to algorithm, web development or APIs
+- 🌱 I’m currently learning Golang, C, ReactJS.
 - 💞️ I’m looking to collaborate on many different projects
 - 📫 How to reach me : by email at tanguymace2002@gmail.com
